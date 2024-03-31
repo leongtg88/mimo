@@ -32,6 +32,7 @@ console.log(jessiePercentDisplay);
 const samMissedPoints = maxPoints - samPoints;
 const alexMissedPoints = maxPoints - alexPoints;
 const jessieMissedPoints = maxPoints - jessiePoints;
+
 const samMissedPointsDisplay = "Sam missed " + samMissedPoints + " point(s).";
 console.log(samMissedPointsDisplay);
 
