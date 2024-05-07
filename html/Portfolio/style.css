@@ -39,7 +39,7 @@ margin: auto;
 }
 
 progress{
-	width: 10px;
+	width: 1000px;
 	height: 10px;
 	border: solid 1px;
 	color: black;
@@ -63,7 +63,7 @@ progress::-moz-progress-bar  {
 
 details{
 	display: flex;
-	border: dashed;
+	border: dashed 1px;
 	padding: 20px;
 	margin: 10px;
 }
