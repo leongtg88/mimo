@@ -9,7 +9,6 @@ bodyElement.appendChild(paragraph);
 }
 
 
-showMessages();
 
 
 //1.-Let's start with a constant named paragraph to store the element we want to create.
